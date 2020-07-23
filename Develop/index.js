@@ -74,9 +74,3 @@ inquirer
       console.log("Success!");
     });
   });
-
-// function to initialize program
-// function init() {}
-
-// // function call to initialize program
-// init();
