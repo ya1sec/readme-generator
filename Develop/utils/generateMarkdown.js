@@ -19,17 +19,26 @@ function generateMarkdown(data) {
 
   ${data.toc}
 
+
   ## Installation
 
   ${data.installation}
+
+
+  ## Usage
+
+  ${data.usage}
+
   
   ## Contributing
 
   ${data.contributing}
 
+
   ## Tests
 
   ${data.tests}
+  
   
   ## Questions?
 
