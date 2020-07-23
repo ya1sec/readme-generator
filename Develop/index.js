@@ -17,12 +17,7 @@ const questions = [
   },
   {
     type: "input",
-    message: "Enter your table of contents:",
-    name: "toc",
-  },
-  {
-    type: "input",
-    message: "Explain the installation instructions:",
+    message: "Explain your application's installation instructions:",
     name: "installation",
   },
   {
@@ -39,12 +34,12 @@ const questions = [
   {
     type: "input",
     message:
-      "State if you are open to contributions and what your requirements are for accepting them:",
+      "State if you are open to contributions and what your requirements might be for accepting them:",
     name: "contributing",
   },
   {
     type: "input",
-    message: "Link to any tests:",
+    message: "Describe the testing instructions for your program:",
     name: "tests",
   },
   {
