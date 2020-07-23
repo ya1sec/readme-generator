@@ -18,7 +18,7 @@ const questions = [
   {
     type: "input",
     message: "Enter your table of contents:",
-    name: "contents",
+    name: "toc",
   },
   {
     type: "input",
@@ -68,10 +68,10 @@ inquirer
 
   .then(function (response) {
     console.log(response);
-    const responseData = { ...response };
-    // const markdownText = formatMarkdown(responseData);
+    const data = { ...response };
+    const markdownText = generateMarkdown(data);
 
-    fs.writeFile("README.md", JSON.stringify(responseData), (err) => {
+    fs.writeFile("README.md", markdownText, (err) => {
       if (err) {
         return console.log(err);
       }
