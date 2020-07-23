@@ -36,6 +36,6 @@ THEN I am taken to the corresponding section of the README
 
 - The generated README can be found in the [Develop folder](./Develop/README.md)
 
-- A video demonstrating the application's functionality can be found [here](https://drive.google.com/file/d/1ZT6-u22_H2z-2yephCADgHtI8kVnZ0G8/view)
+- A video demonstrating the application's functionality can be found [here](https://drive.google.com/file/d/1HNklS3ahSdILBcgpQbJTiRbl3fCWWTb3/view)
 
   ![Demo](./assets/demo.jpg)

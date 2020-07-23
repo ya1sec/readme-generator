@@ -12,7 +12,7 @@ function generateMarkdown(data) {
   2. [Usage](#usage)
   3. [Contributing](#contributing)
   4. [Tests](#tests)
-  5. [Questions](#questions)
+  5. [Contact](#contact)
 
 
 
