@@ -38,4 +38,4 @@ THEN I am taken to the corresponding section of the README
 
 - A video demonstrating the application's functionality can be found [here](https://drive.google.com/file/d/1HNklS3ahSdILBcgpQbJTiRbl3fCWWTb3/view)
 
-  ![Demo](./assets/demo.jpg)
+![Demo](./assets/demo.jpg)
